@@ -100,6 +100,7 @@
                     </div>
 
                     <div class="border p-4 rounded mb-4">
+
                         <div class="mb-4">
                             <h3 class="mb-3 h6 text-uppercase text-black d-block">{{ __('shop.filter_by_price') }}</h3>
                             <div id="slider-range" class="border-primary"></div>
